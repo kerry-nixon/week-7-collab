@@ -10,3 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Whatsup Karla!
+Hey!! I got it to work! :) 
