@@ -1,0 +1,12 @@
+---
+title: "Week 7 Collab"
+author: "Kerry Nixon"
+date: "11/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Whatsup Karla!
