@@ -12,3 +12,4 @@ knitr::opts_chunk$set(echo = TRUE)
 Whatsup Karla!
 Hey!! I got it to work! :) 
 This is pretty fun...like coder's AIM
+It reminds me of like an old school chatroom lmao 
